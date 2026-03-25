@@ -5,7 +5,7 @@ Logistics
 ---------
 
 -   revision: 1.0
--   due: April 8, 2026
+-   due: April 7, 2026 23:59:59
 
 Objectives
 ----------
